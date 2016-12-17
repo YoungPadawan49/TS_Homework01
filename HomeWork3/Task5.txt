@@ -1,0 +1,36 @@
+1. SELECT COUNT(*) FROM Customers WHERE Country='Germany';
+
+	Result: 11
+
+2. SELECT COUNT(*) FROM Customers WHERE Contactname LIKE '%e';
+
+	Result: 4
+
+3. INSERT INTO Customers (CustomerID, CustomerName, ContactName, City, PostalCode, Country)
+   VALUES (92, 'AlexSrvc', 'Alexandr Inozemcev', 'Novosibirsk', 633009, 'Russia');
+
+	Result: in file "Task5_3_DBQuery"
+
+4. UPDATE Customers SET Contactname='Sashka' WHERE CustomerID=92;
+
+	Result: in file "Task5_4_DBQuery"
+
+5. DELETE FROM Customers WHERE City='Nantes';
+
+	Result: in file "Task5_5_DBQuery"
+
+6. SELECT OrderID FROM Orders JOIN Employees
+   ON Orders.EmployeeID=Employees.EmployeeID
+   WHERE FirstName='Steven';
+
+	Result: 10248
+		10254
+		10269
+		10297
+		10320
+		10333
+		10358
+		10359
+		10372
+		10378
+		10397
