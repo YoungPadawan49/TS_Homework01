@@ -1,0 +1,10 @@
+http://qa-lab.cloud-pro.ru:8081/browse/HAR-91
+http://qa-lab.cloud-pro.ru:8081/browse/HAR-90
+http://qa-lab.cloud-pro.ru:8081/browse/HAR-89
+http://qa-lab.cloud-pro.ru:8081/browse/HAR-98
+http://qa-lab.cloud-pro.ru:8081/browse/HAR-97
+http://qa-lab.cloud-pro.ru:8081/browse/HAR-95
+http://qa-lab.cloud-pro.ru:8081/browse/HAR-96
+http://qa-lab.cloud-pro.ru:8081/browse/HAR-92
+http://qa-lab.cloud-pro.ru:8081/browse/HAR-93
+http://qa-lab.cloud-pro.ru:8081/browse/HAR-94
